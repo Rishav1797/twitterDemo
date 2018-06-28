@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">TwitterFeed</string>
+	<string name="com.twitter.sdk.android.CONSUMER_KEY">970e9L9glvm9vVlzq0iT3hc11</string>
+	<string name="com.twitter.sdk.android.CONSUMER_SECRET">SmSAM0JpiMJ1U7JkQxQHskAcN7vDb82wTy3309C44FzE2yxMWt</string>
+	<string name="hello"></string>
+
+	<string name="Button01">Send</string>
+	<string name="Button02">Receive</string>
+
+</resources>
